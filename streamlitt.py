@@ -36,3 +36,7 @@ if uploaded_file is not None:
     st.write("Confidence per angka:")
     for i, prob in enumerate(prediction[0]):
         st.write(f"{i} : {prob:.4f}")
+
+st.markdown(
+    "Tugas Mini-Project Muhammad Abil Khoiri"
+)
