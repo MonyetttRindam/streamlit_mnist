@@ -1,7 +1,9 @@
 streamlit>=1.25
 tensorflow>=2.13.0
+keras
 scikit-learn
 numpy>=1.24
 pandas>=2.2.2
 pillow
 opencv-python
+
