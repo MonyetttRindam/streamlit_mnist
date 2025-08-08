@@ -1,12 +1,7 @@
 streamlit>=1.25
-tensorflow>=2.13.0
-skicit-learn
+tensorflow==2.13.0
+scikit-learn
 numpy>=2.0.2
 pandas>=2.2.2
 pillow
 opencv-python
-numpy
-pip>=24.1.2
-
-
-
