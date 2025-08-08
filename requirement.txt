@@ -1,11 +1,10 @@
-streamlit
-tensorflow
+streamlit>=1.25
+tensorflow>=2.12
 skicit-learn
-numpy==2.0.2
-pandas==2.2.2
+numpy>=2.0.2
+pandas>=2.2.2
 pillow
 opencv-python
 numpy
-pip==22.2.2
-
+pip>=22.2.2
 
